@@ -1,3 +1,5 @@
+{% comment %}
+
 # Portfolio
 ---
 ## Topic 1 (such as, Natural Language Processing)
@@ -31,6 +33,9 @@ Description followed by link
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
 
 <div style="text-align: justify"> Description
+
+{% endcomment %}  
 <br>
 <center><img src="images/credit-risk-webapp.png"/></center>
 <br>
+*/
