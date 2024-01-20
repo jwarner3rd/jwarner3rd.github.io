@@ -2,10 +2,9 @@
 
 # Portfolio
 ---
-## Topic 1 (such as, Natural Language Processing)
+## SQL Projects
 
-### Project title (such as Natural Language Processing with Deep Learning)
-
+### DATA 365 SQL Projects
 Description followed by link
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
