@@ -7,7 +7,7 @@
 ### DATA 365 SQL Projects
 Description followed by link
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/jwarner3rd/SQL_Hospital_Database_Project])
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jwarner3rd/SQL_Hospital_Database_Project)
 
 **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/jwarner3rd/Data_365_sql/tree/main)).
 
