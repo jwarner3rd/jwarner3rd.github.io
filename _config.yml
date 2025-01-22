@@ -9,7 +9,7 @@ description:
   <a href="https://www.linkedin.com/in/john-j-warner/">LinkedIn</a> |
   <a href="https://github.com/jwarner3rd">GitHub</a>
   </p>
-
+<p>
   platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
@@ -17,6 +17,7 @@ description:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/vaibhavvikas
+</p>
 
   <p align="justify">
   About me.
