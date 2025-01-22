@@ -9,7 +9,15 @@ description:
   <a href="https://www.linkedin.com/in/john-j-warner/">LinkedIn</a> |
   <a href="https://github.com/jwarner3rd">GitHub</a>
   </p>
-  
+
+  platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/vaibhavvikas
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/vaibhavvikas
+
   <p align="justify">
   About me.
   <br><br>
